@@ -1,3 +1,6 @@
 # Periodic Connection Test
 
-Checks if a connection is possible (fetch of top 1 contact)
+Checks if a Dynamics 365 connection is possible by fetching one contact.
+
+Configuration
+- App.config => ConnectionString
