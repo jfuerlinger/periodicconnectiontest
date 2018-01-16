@@ -2,5 +2,5 @@
 
 Checks if a Dynamics 365 connection is possible by fetching one contact.
 
-Configuration
+__Configuration__
 - App.config => ConnectionString
