@@ -1,0 +1,1 @@
+2018-01-16 11:07:20,690 [1] INFO  PeriodicConnectionTest - Successfully fetched 1 contact from the CRM system
